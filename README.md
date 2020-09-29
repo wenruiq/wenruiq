@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on an [Instant Messaging Web App][chatty]!
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate with other developers for exciting joint projects
-- 🥅 2020 Goals: Join competitive programming
+- 🥅 2020 Goals: Improve my skills in competitive programming!
 - ⚡ Fun fact: I enjoy playing basketball :basketball:
 
 ### Languages and Tools:
