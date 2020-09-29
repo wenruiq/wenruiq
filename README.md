@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Gamer, and Student!
 
-- 🔭 I’m currently working on an [Instant Messaging Web App][chatty]!
+- 🔭 I’m currently working on a [Cross E-commerce Platforms Searching Web App][haste]!
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate with other developers for exciting joint projects
 - 🥅 2020 Goals: Improve my skills in competitive programming!
@@ -29,3 +29,4 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 
 [chatty]: https://github.com/wenruiq/chatty-wa
+[haste]: https://github.com/wenruiq/haste
