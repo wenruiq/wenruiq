@@ -6,7 +6,7 @@
 ## I'm a Developer, Gamer, and Student!
 
 - 🔭 I’m currently working on a [Cross E-commerce Platforms Searching Web App][haste]!
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning competitive programming
 - 👯 I’m looking to collaborate with other developers for exciting joint projects
 - 🥅 2020 Goals: Improve my skills in competitive programming!
 - ⚡ Fun fact: I enjoy playing basketball :basketball:
