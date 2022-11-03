@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenrui-qu/)
 
 ## Write readable code that runs fast
-
-- 🔭 I’m currently working on landing a software engineering job 
 - 🌱 I’m looking to collaborate with other developers for joint projects
 - 🥅 2022 Goals: Hone my skills in data structure & algorithms
 - ⚡ Fun fact: I competed internationally as a bilingual debater in high school :doughnut:
