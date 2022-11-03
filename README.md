@@ -3,12 +3,11 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wenrui119@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenrui-qu/)
 
-## Working on projects that excite me!
+## Write readable code that runs fast
 
-- 🔭 I’m currently developing a mobile app to provide navigational assistance to people with vision impairment!
-- 🌱 I’m currently honing my skills in data structures & algorithms
-- 👯 I’m looking to collaborate with other developers for exciting joint projects
-- 🥅 2022 Goals: Land a job that will help me to grow as a developer
+- 🔭 I’m currently working on landing a software engineering job 
+- 🌱 I’m looking to collaborate with other developers for joint projects
+- 🥅 2022 Goals: Hone my skills in data structure & algorithms
 - ⚡ Fun fact: I competed internationally as a bilingual debater in high school :doughnut:
 
 ### Languages and Tools:
