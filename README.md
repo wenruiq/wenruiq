@@ -5,7 +5,7 @@
 
 ## Write readable code that runs fast
 - 🌱 I’m looking to collaborate with other developers for joint projects
-- 🥅 2022 Goals: Hone my skills in data structure & algorithms
+- 🥅 2023 Goals: Get my hands dirty and write lots of code to hone my skills as a developer
 - ⚡ Fun fact: I competed internationally as a bilingual debater in high school :doughnut:
 
 ### Languages and Tools:
